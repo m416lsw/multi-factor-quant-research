@@ -92,7 +92,7 @@ Default parameters:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-factor-quant-research.git
+git clone https://github.com/m416lsw/multi-factor-quant-research.git
 cd multi-factor-quant-research
 ```
 
